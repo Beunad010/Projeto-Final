@@ -89,4 +89,3 @@ public class ProdutosDAO {
         return new ArrayList<>(); // Retorna uma lista vazia em caso de erro
     }
 }
-
